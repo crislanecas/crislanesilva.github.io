@@ -224,6 +224,7 @@ header .hero-img .hero-text .bi-arrow-down:hover {
   overflow: hidden;
   -webkit-transition: opacity 1s ease;
   transition: opacity 1s ease;
+  aspect-ratio: 1 / 1; /* mantem garelia com proporção 1:1 */
 }
 
 .portfolio .gallery .gallery__item .gallery__img {
